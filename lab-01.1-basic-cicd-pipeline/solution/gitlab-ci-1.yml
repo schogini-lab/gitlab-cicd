@@ -1,0 +1,15 @@
+build1:
+  stage: build
+  script:
+    - echo "Build stage"
+
+test1:
+  stage: test
+  script:
+    - echo "Test Stage Job1"
+    - echo "For example run a test suite"
+
+deploy:
+  stage: deploy
+  script:
+    - echo "Deploy stage"
