@@ -1,0 +1,26 @@
+stages:
+  - build
+  - test
+  - deploy
+
+build1:
+  stage: build
+  script:
+    - echo "Build stage"
+
+test1:
+  stage: test
+  script:
+    - echo "Test Stage Job1"
+    - echo "For example run a test suite"
+
+test2:
+  stage: test
+  script:
+    - echo "Test Stage Job 2"
+    - echo "For example run a lint test"
+
+deploy:
+  stage: deploy
+  script:
+    - echo "Deploy stage"
