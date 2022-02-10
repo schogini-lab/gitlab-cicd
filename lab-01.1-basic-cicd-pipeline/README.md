@@ -121,6 +121,6 @@ deploy:
 ![Pipelines menu](./images/5.png "Pipelines menu")
 ![Pipelines menu](./images/6.png "Pipelines menu")
 
-## Congratulations! You can completed lab 01.1
+## Congratulations! You have completed lab 01.1
 
 
