@@ -86,7 +86,7 @@ deploy:
 
 <details>
 
- _<summary>Click to see solution for parallel job execution</summary>_
+ _<summary>Click to see the solution for parallel job execution</summary>_
 
 ```yaml
 stages:
